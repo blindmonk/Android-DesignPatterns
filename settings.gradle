@@ -1,1 +1,1 @@
-include ':strategy', ':toast', ':observer'
+include ':strategy', ':toast', ':observer', ':decorator'
